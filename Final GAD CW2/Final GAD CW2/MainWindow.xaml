@@ -1,0 +1,43 @@
+﻿<Window x:Class="Final_GAD_CW2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Final_GAD_CW2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="700" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Loading Page.jpg"/>
+        </Grid.Background>
+
+        <!-- Loading -->
+        <materialDesign:Card
+  UniformCornerRadius="14"
+  Padding="4">
+            <materialDesign:Card.Background>
+                <ImageBrush/>
+            </materialDesign:Card.Background>
+            <Button x:Name="buttonCloseMessage"  ToolTip="Close" Background="Transparent" BorderThickness="0" BorderBrush="Transparent" Foreground="Red" Margin="603,10,58,350" RenderTransformOrigin="1.093,-3.45" VerticalAlignment="Center" Height="32" Click="buttonCloseMessage_Click">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Content" Value="{materialDesign:PackIcon circle}"/>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </materialDesign:Card>
+
+
+        <ProgressBar
+        IsIndeterminate="True" Margin="0,396,0,0" />
+
+        <ProgressBar
+           IsIndeterminate="True" Margin="0,0,0,396" />
+
+        <Button
+          Style="{StaticResource MaterialDesignFlatDarkBgButton}"
+          Content="START NOW"
+          IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="288,266,288,102" Click="Button_Click" />
+    </Grid>
+</Window>

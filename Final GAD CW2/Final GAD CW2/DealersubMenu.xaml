@@ -1,0 +1,106 @@
+﻿<Window x:Class="Final_GAD_CW2.DealersubMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Final_GAD_CW2"
+        mc:Ignorable="d"
+        Title="DealersubMenu" Height="600" Width="1080" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+
+
+    <Grid Margin="0">
+
+        <materialDesign:ColorZone
+  Mode="Dark"
+  Padding="16" Background="#3366cc">
+            <DockPanel>
+                <materialDesign:PopupBox
+      DockPanel.Dock="Right"
+      PlacementMode="BottomAndAlignRightEdges">
+                    <ListBox>
+                        <ListBoxItem
+          Content="Account Settings" />
+                        <ListBoxItem
+          Content="About Us" />
+                        <ListBoxItem
+          Content="Logout" />
+                    </ListBox>
+                </materialDesign:PopupBox>
+                <StackPanel
+      Orientation="Horizontal">
+                    <ToggleButton
+        Style="{DynamicResource MaterialDesignHamburgerToggleButton}" />
+                    <TextBlock
+        VerticalAlignment="Center"
+        Margin="16 0 0 0"
+        Text="" />
+                </StackPanel>
+            </DockPanel>
+        </materialDesign:ColorZone>
+
+
+        <Button
+            Style="{StaticResource MaterialDesignRaisedDarkButton}"
+            Width="280"
+            ToolTip="Online Banking"
+            Content="&#xD;&#xA;Online Banking"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="56,95,739,374" Height="Auto" FontWeight="Bold" FontSize="24" FontFamily="Cambria" Background="#FF2D76A8" Click="Button_Click" />
+        <materialDesign:PackIcon Kind="Bank" Margin="176,112,0,0" Height="45" Width="48" />
+
+        <Button
+            Style="{StaticResource MaterialDesignRaisedDarkButton}"
+            Width="280"
+            ToolTip="Bill Payments"
+            Content="&#xD;&#xA;Bill Payments"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Margin="396,95,399,374" Height="Auto" FontWeight="Bold" FontSize="24" FontFamily="Cambria" Background="#FFA8862D" Click="Button_Click_1" />
+        <materialDesign:PackIcon Kind="ClipboardList" Margin="518,112,0,0" Height="45" Width="48"/>
+
+        <Button
+            Style="{StaticResource MaterialDesignRaisedDarkButton}"
+            Width="280"
+            ToolTip="Cash TopUp"
+            Content="&#xD;&#xA;Cash TopUp"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Margin="738,95,57,374" Height="Auto" FontWeight="Bold" FontSize="24" FontFamily="Cambria" Background="#FF43A82D" Click="Button_Click_3" />
+        <materialDesign:PackIcon Kind="Money" Margin="858,114,0,0" Height="45" Width="48" />
+
+        <Button
+            Style="{StaticResource MaterialDesignRaisedDarkButton}"
+            Width="280"
+            ToolTip="Mobile Reload"
+            Content="&#xD;&#xA;Mobile Reload"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Margin="56,269,739,200" Height="Auto" FontWeight="Bold" FontSize="24" FontFamily="Cambria" Background="#FFA82D2D" Click="Button_Click_2" />
+        <materialDesign:PackIcon Kind="CellphoneText" Margin="176,282,0,0" Height="45" Width="48" />
+
+
+
+        <Button
+            Style="{StaticResource MaterialDesignRaisedDarkButton}"
+            Width="280"
+            ToolTip="Lottary"
+            Content="&#xD;&#xA;Lottary"
+            IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Margin="396,269,399,200" Height="Auto" FontWeight="Bold" FontSize="24" FontFamily="Cambria" Background="#FFA82D8C" />
+        <materialDesign:PackIcon Kind="FileTableBox" Margin="520,286,0,0" Height="45" Width="48" />
+
+
+        <materialDesign:Chip
+            Content="Dealer Name" Margin="862,8,0,542" Height="Auto" Width="158" FontWeight="Bold" FontFamily="Cambria" Background="{x:Null}" IconForeground="{x:Null}" >
+            <materialDesign:Chip.Icon>
+                <Image
+             Source="C:\Users\Pruthuvi\Desktop\Projects\Final Output\wpf XPAY\Images\default avatar.jpg" />
+            </materialDesign:Chip.Icon>
+        </materialDesign:Chip>
+
+        <Button x:Name="btn_home_window"
+  Content="{materialDesign:PackIcon Kind=Home}"
+  ToolTip="Home"
+  IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" Margin="67,19,949,549" Click="btn_home_window_Click"/>
+
+        <materialDesign:PackIcon Kind="Xamarin" Margin="529,9,0,0" Height="37" Width="49" Foreground="White"/>
+
+
+
+    </Grid>
+
+
+</Window>

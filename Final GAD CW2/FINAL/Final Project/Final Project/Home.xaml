@@ -1,0 +1,52 @@
+﻿<Window x:Class="Final_Project.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_Project"
+        mc:Ignorable="d"
+        Title="Home" Height="600" Width="950" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Background.jpg"/>
+        </Grid.Background>
+
+        <Button x:Name="btn_login"
+        Style="{StaticResource MaterialDesignRaisedSecondaryButton}"
+        ToolTip="Resource name: MaterialDesignRaisedSecondaryButton"
+        Content="LOGIN"
+        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="161,400,646,168" FontWeight="Bold" Click="btn_login_Click" />
+
+        <Button x:Name="btn_rules"
+        Style="{StaticResource MaterialDesignFlatSecondaryButton}"
+        ToolTip="MaterialDesignFlatButton"
+        Content="Rules &amp; Regulations"
+        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="521,12,246,556" FontSize="18" FontWeight="Bold" FontFamily="Calibri" />
+
+        <Button x:Name="btn_about_us"
+        Style="{StaticResource MaterialDesignFlatSecondaryButton}"
+        ToolTip="MaterialDesignFlatButton"
+        Content="About Us"
+        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="405,12,429,556" FontSize="18" FontWeight="Bold" FontFamily="Calibri" />
+
+        <Button x:Name="btn_privacy"
+        Style="{StaticResource MaterialDesignFlatSecondaryButton}"
+        ToolTip="MaterialDesignFlatButton"
+        Content="Privacy"
+        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="693,12,141,556" FontSize="18" FontWeight="Bold" FontFamily="Calibri" />
+
+        <Rectangle Fill="#FFAEEA00" HorizontalAlignment="Left" Height="17" Margin="517,20,0,0" VerticalAlignment="Top" Width="3"/>
+        <Rectangle Fill="#FFAEEA00" HorizontalAlignment="Left" Height="17" Margin="703,20,0,0" VerticalAlignment="Top" Width="3"/>
+        <Rectangle Fill="#FFAEEA00" HorizontalAlignment="Left" Height="17" Margin="789,20,0,0" VerticalAlignment="Top" Width="3"/>
+
+
+        <Button x:Name="btn_log"
+        Style="{StaticResource MaterialDesignOutlinedSecondaryButton}"
+        Content="LOGIN"
+        IsEnabled="{Binding DataContext.ControlsEnabled, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" Margin="809,13,37,555" Click="btn_log_Click" />
+        <TextBlock HorizontalAlignment="Left" Margin="555,558,0,0" TextWrapping="Wrap" Text="COPYRIGHTS NEXA COMPANY 2021 " VerticalAlignment="Top" Foreground="White" Height="32" Width="358" FontSize="20" FontWeight="Bold"/>
+
+
+
+    </Grid>
+</Window>

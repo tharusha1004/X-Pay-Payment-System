@@ -1,0 +1,338 @@
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\Final GAD CW2.exe.config
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\Final GAD CW2.exe
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\Final GAD CW2.pdb
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignColors.dll
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\MainWindow.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\App.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2_MarkupCompile.cache
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2_MarkupCompile.lref
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\App.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\MainWindow.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.g.resources
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final_GAD_CW2.Properties.Resources.resources
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.GenerateResource.cache
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.CoreCompileInputs.cache
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.exe
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.pdb
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Customer Login.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Dealer login.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Login panel.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Selection.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\about us.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\newreg.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\about us.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Customer Login.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Dealer login.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Login panel.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\newreg.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Selection.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Messege.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Submenu.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Messege.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Submenu.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerMainWindow.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerMainWindow.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerMainWindow.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerMainWindow.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerOnlineBanking.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerOnlineBanking.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerBillPayment.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerBillPayment.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerReloadPayment.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealersubMenu.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerReloadPayment.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealersubMenu.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\PrivacyPolicy.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\PrivacyPolicy.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Rules and Regulations.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Rules and Regulations.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerOnlineBanking.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerOnlineBanking.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerBillPayment.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerBillPayment.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerReload.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\EChanneling.g.cs
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\DealerReload.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\EChanneling.baml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\BespokeFusion.dll
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\janit\Desktop\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.AssemblyReference.cache
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\BespokeFusion.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\MaterialDesignColors.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\about us.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Customer Login.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerBillPayment.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerMainWindow.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerOnlineBanking.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerReloadPayment.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Dealer login.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerBillPayment.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerMainWindow.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerOnlineBanking.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerReload.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealersubMenu.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\EChanneling.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Login panel.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\MainWindow.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Messege.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\newreg.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\PrivacyPolicy.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Rules and Regulations.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Selection.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Submenu.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\App.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\App.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\about us.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Customer Login.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerBillPayment.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerMainWindow.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerOnlineBanking.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerReloadPayment.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Dealer login.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerBillPayment.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerMainWindow.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerOnlineBanking.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerReload.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealersubMenu.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\EChanneling.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Login panel.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\MainWindow.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Messege.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\newreg.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\PrivacyPolicy.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Rules and Regulations.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Selection.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Submenu.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Final_GAD_CW2.Properties.Resources.resources
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.GenerateResource.cache
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.CoreCompileInputs.cache
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerCashTopup.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\DealerCashTopup.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\LiveCharts.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\LiveCharts.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\LiveCharts.xml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerTransaction.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\CustomerTransaction.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\zxing.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\zxing.presentation.dll
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\zxing.xml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\zxing.presentation.xml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.AssemblyReference.cache
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Xpay.exe.config
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Xpay.exe.manifest
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Xpay.application
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Xpay.exe
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\bin\Debug\Xpay.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Qrcode.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay_MarkupCompile.cache
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay_MarkupCompile.lref
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Qrcode.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay.g.resources
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay.exe.manifest
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay.application
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay.exe
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\Xpay.pdb
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\newregd.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\newregd.baml
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\newregc.g.cs
+C:\Users\janit\Desktop\Final GAD CW2 - Copy\Final GAD CW2\obj\Debug\newregc.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.exe.config
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.exe.manifest
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.application
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.exe
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.pdb
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\BespokeFusion.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignColors.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.presentation.dll
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.pdb
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.xml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.xml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.presentation.xml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.AssemblyReference.cache
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\about us.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Customer Login.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerBillPayment.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerMainWindow.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerOnlineBanking.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerReloadPayment.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerTransaction.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Dealer login.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerBillPayment.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerCashTopup.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerMainWindow.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerOnlineBanking.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerReload.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealersubMenu.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerTransaction.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\EChanneling.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Login panel.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\MainWindow.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Messege.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newreg.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregc.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregd.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\PrivacyPolicy.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Qrcode.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Rules and Regulations.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Selection.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Submenu.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\App.g.cs
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay_MarkupCompile.cache
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay_MarkupCompile.lref
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\App.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\about us.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Customer Login.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerBillPayment.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerMainWindow.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerOnlineBanking.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerReloadPayment.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerTransaction.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Dealer login.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerBillPayment.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerCashTopup.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerMainWindow.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerOnlineBanking.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerReload.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealersubMenu.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerTransaction.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\EChanneling.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Login panel.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\MainWindow.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Messege.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newreg.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregc.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregd.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\PrivacyPolicy.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Qrcode.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Rules and Regulations.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Selection.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Submenu.baml
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.g.resources
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final_GAD_CW2.Properties.Resources.resources
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.GenerateResource.cache
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.CoreCompileInputs.cache
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.exe.manifest
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.application
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.exe
+C:\Users\janit\Desktop\NIBM - DSE course\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.exe.config
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.exe.manifest
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.application
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.exe
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Xpay.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\BespokeFusion.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.Wpf.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignColors.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.presentation.dll
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.xml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.Wpf.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\LiveCharts.Wpf.xml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignColors.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.xml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\bin\Debug\zxing.presentation.xml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.AssemblyReference.cache
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.SuggestedBindingRedirects.cache
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\about us.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Customer Login.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerBillPayment.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerMainWindow.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerOnlineBanking.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerReloadPayment.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerTransaction.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Dealer login.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerBillPayment.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerCashTopup.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerMainWindow.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerOnlineBanking.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerReload.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealersubMenu.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerTransaction.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\EChanneling.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Login panel.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\MainWindow.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Messege.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newreg.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregc.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregd.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\PrivacyPolicy.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Qrcode.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Rules and Regulations.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Selection.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Submenu.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\App.g.cs
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay_MarkupCompile.cache
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay_MarkupCompile.lref
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\App.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\about us.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Customer Login.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerBillPayment.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerMainWindow.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerOnlineBanking.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerReloadPayment.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\CustomerTransaction.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Dealer login.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerBillPayment.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerCashTopup.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerMainWindow.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerOnlineBanking.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerReload.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealersubMenu.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\DealerTransaction.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\EChanneling.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Login panel.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\MainWindow.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Messege.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newreg.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregc.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\newregd.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\PrivacyPolicy.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Qrcode.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Rules and Regulations.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Selection.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Submenu.baml
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.g.resources
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final_GAD_CW2.Properties.Resources.resources
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.GenerateResource.cache
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.CoreCompileInputs.cache
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.exe.manifest
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.application
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Final GAD CW2.csproj.CopyComplete
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.exe
+E:\NIBM - DSE course\2nd Semester - 1st Stage\GUI App Development\Final GAD CW2\Final GAD CW2\obj\Debug\Xpay.pdb

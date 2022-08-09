@@ -1,0 +1,19 @@
+﻿<Window x:Class="Final_GAD_CW2.Rules_and_Regulations"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:Final_GAD_CW2"
+        mc:Ignorable="d"
+        Title="Rules_and_Regulations" Height="600" Width="950" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle Fill="#FF3366CC" HorizontalAlignment="Left" Height="110" Margin="722,0,0,0" VerticalAlignment="Top" Width="228"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="25,92,0,-30" TextWrapping="Wrap" VerticalAlignment="Top" Height="538" Width="896" FontSize="14" TextAlignment="Justify"><Run Text="1. The "/><Run Text="X Pay"/><Run Text=" Services"/><LineBreak/><Run/><LineBreak/><Run Text="X Pay"/><Run Text=" is an online payment service operating on a web and mobile application platform that allows you the User to, inter alia, make payments to merchants and institutions registered with"/><Run Text=" X "/><Run Text=" P"/><Run Text="ay"/><Run Text=". "/><Run Text="X "/><Run Text="Pa"/><Run Text="y"/><Run Text=" is not a bank and does not act as agent for you or the Payee in respect of the "/><Run Text="X "/><Run Text="Pa"/><Run Text="y"/><Run Text="  Services. It is your responsibility to ensure that you comply with all laws, regulations and rules applicable to you that govern or regulate the transactions entered into by you through "/><Run Text="X "/><Run Text="Pa"/><Run Text="y"/><Run Text=" . At present, the "/><Run Text="X "/><Run Text="Pa"/><Run Text="y"/><Run Text=" Services are only available to make payments to registered Payees within Sri Lanka."/><LineBreak/><Run/><LineBreak/><Run Text="We do not have any control over, and are not responsible or liable for, the products or services that are paid for through "/><Run Text="X Pay"/><Run Text=" Services. While we will ensure that any payment you make using the "/><Run Text="X Pay"/><Run Text="  services will, subject to the terms and conditions applicable, go through and/or be duly remitted to the relevant Payee, we cannot ensure that such Payee will perform any obligation or do any act related or pursuant to such payment. For example, where you use the "/><Run Text="X Pay"/><Run Text="  Services to pay for a utility that has been disconnected, we will ensure that the payment is remitted to the service provider but we cannot ensure that the service provider will reconnect the relevant utility service."/><LineBreak/><Run/><LineBreak/><Run Text="1.2 Eligibility. To be eligible to use the"/><Run Text=" X Pay"/><Run Text="  Services, you must be at least 18 years old."/><LineBreak/><Run/><LineBreak/><Run Text="1.3 Information. In order to open and maintain an Account, you must provide us with correct and up-to-date Information. You will be required to provide this Information at the time you register with us as deemed ne"/><Run Text="cessa"/><Run Text="ry and can change from time to time."/><LineBreak/><Run/><LineBreak/><Run Text="2. 2 Payment Methods. You may make payments through "/><Run Text="the X Pay "/><Run Text="Services using any one of the following Payment Methods [provided that you have added the relevant payment method to your Account]:"/><LineBreak/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="24,45,0,0" TextWrapping="Wrap" Text="Rules &amp; Regulations" VerticalAlignment="Top" FontSize="24"/>
+        <Rectangle Fill="#FF3366CC" HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="818"/>
+        <materialDesign:PackIcon Kind="Xamarin" Margin="757,14,0,0" Height="78" Width="159" Foreground="White" />
+
+    </Grid>
+</Window>
